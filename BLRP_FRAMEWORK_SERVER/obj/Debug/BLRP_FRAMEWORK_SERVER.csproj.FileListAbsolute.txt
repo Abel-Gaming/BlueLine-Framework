@@ -1,0 +1,16 @@
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK_SERVER\bin\Debug\server.net.dll.config
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK_SERVER\bin\Debug\server.net.dll
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK_SERVER\bin\Debug\server.net.pdb
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK_SERVER\obj\Debug\BLRP_FRAMEWORK_SERVER.csproj.CoreCompileInputs.cache
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK_SERVER\obj\Debug\server.net.dll
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK_SERVER\obj\Debug\server.net.pdb
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\Build\server.net.dll.config
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\Build\server.net.dll
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\Build\server.net.pdb
+D:\FiveM-Servers\BlueLineRP\txData\BlueLineRP.base\resources\[scripts]\[FRAMEWORK]\BLRP_FRAMEWORK\server.net.dll.config
+D:\FiveM-Servers\BlueLineRP\txData\BlueLineRP.base\resources\[scripts]\[FRAMEWORK]\BLRP_FRAMEWORK\server.net.dll
+D:\FiveM-Servers\BlueLineRP\txData\BlueLineRP.base\resources\[scripts]\[FRAMEWORK]\BLRP_FRAMEWORK\server.net.pdb
+D:\FiveM-Servers\BlueLineRP\txData\BlueLineRP.base\resources\[scripts]\[FRAMEWORK]\BLRP_FRAMEWORK\server\server.net.dll.config
+D:\FiveM-Servers\BlueLineRP\txData\BlueLineRP.base\resources\[scripts]\[FRAMEWORK]\BLRP_FRAMEWORK\server\server.net.dll
+D:\FiveM-Servers\BlueLineRP\txData\BlueLineRP.base\resources\[scripts]\[FRAMEWORK]\BLRP_FRAMEWORK\server\server.net.pdb
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK_SERVER\obj\Debug\BLRP_FRAMEWORK_SERVER.csproj.AssemblyReference.cache
