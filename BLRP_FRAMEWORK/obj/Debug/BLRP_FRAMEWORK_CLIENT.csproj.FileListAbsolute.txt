@@ -1,0 +1,6 @@
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\bin\Debug\client.net.dll
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\bin\Debug\client.net.pdb
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\obj\Debug\BLRP_FRAMEWORK_CLIENT.csproj.AssemblyReference.cache
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\obj\Debug\BLRP_FRAMEWORK_CLIENT.csproj.CoreCompileInputs.cache
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\obj\Debug\client.net.dll
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\obj\Debug\client.net.pdb

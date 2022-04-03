@@ -1,0 +1,5 @@
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\bin\Release\client.net.dll
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\bin\Release\client.net.pdb
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\obj\Release\BLRP_FRAMEWORK.csproj.CoreCompileInputs.cache
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\obj\Release\client.net.dll
+D:\FiveM Development\Abel Gaming Designs\2022\BLRP_FRAMEWORK\BLRP_FRAMEWORK\obj\Release\client.net.pdb
